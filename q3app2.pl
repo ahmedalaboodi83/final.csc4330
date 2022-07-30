@@ -32,3 +32,4 @@ while ($count < 10000) {
 }
 
 print Dumper(\%hash);
+print name (\%hash); 
